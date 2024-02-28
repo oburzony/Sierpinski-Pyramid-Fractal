@@ -3,7 +3,7 @@
 ## Description
 The Sierpinski Pyramid project is the implementation of a graphical program that creates an animated, interactive, three-dimensional Sierpinski pyramid. The program was created in Python using libraries such as Pygame, PyOpenGL, PIL (Pillow), and numpy.
 
-*NOTE:* In the document [screenshots_sierpinski_pyramid.pdf](screenshots_sierpinski_pyramid.pdf) you can find screenshots from the animation, presenting the functioning features.
+
 
 ## Requirements
 To run the program, you need to install the required libraries:
