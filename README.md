@@ -92,3 +92,7 @@ Make sure you have Python installed in version 3.x. If not, you can download it 
 - "F6" - decrease green light component
 - "F7" - increase blue light component
 - "F8" - decrease blue light component
+
+## License 
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per
+the terms of the license.
